@@ -1,0 +1,8 @@
+{
+  "name": "Infinity Nexus AI",
+  "description": "The world's most advanced AI platform featuring multiple AI models, image & audio studios, interactive games, and daily rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
